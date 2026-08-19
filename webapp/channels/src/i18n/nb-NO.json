@@ -795,7 +795,7 @@
   "admin.elasticsearch.createJob.title": "Indekser nå",
   "admin.elasticsearch.elasticsearch_test_button": "Test tilkobling",
   "admin.elasticsearch.enableAutocompleteTitle": "Aktiver Elasticsearch for autofullføring av spørringer:",
-  "admin.elasticsearch.enableIndexingDescription": "When true, indexing of new posts occurs automatically. Search queries will use database search until \"Enable Elasticsearch for search queries\" is enabled. <link>Learn more about Elasticsearch in our documentation.</link>",
+  "admin.elasticsearch.enableIndexingDescription": "Når dette er aktivert, blir nye innlegg indeksert automatisk. Søk bruker databasesøk frem til «Aktiver Elasticsearch for søk» er aktivert. <link>Les mer om Elasticsearch i dokumentasjonen vår.</link>",
   "admin.elasticsearch.enableIndexingTitle": "Aktiver Elasticsearch-indeksering:",
   "admin.elasticsearch.enableSearchingDescription": "Krever en tilkobling til Elasticsearch-serveren. Når aktivert, vil Elasticsearch brukes for alle søk ved hjelp av den nyeste indeksen. Søkeresultatene kan være ufullstendige inntil indeksering av den eksisterende postdatabasen er ferdig. Når deaktivert, brukes databasesøk.",
   "admin.elasticsearch.enableSearchingTitle": "Aktiver Elasticsearch for søk:",

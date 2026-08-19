@@ -861,7 +861,7 @@
   "admin.dataSpillage.reviewerSettings.perTeamReviewers.title": "Her takım için verilerin sızmasının işlenmesini yapılandırın",
   "admin.dataSpillage.reviewerSettings.sameReviewersForAllTeams": "Tüm takımlar için aynı değerlendiriciler:",
   "admin.dataSpillage.reviewerSettings.title": "İçerik değerlendiriciler",
-  "admin.dataSpillage.reviewerSettings.toggle": "Enable or disable content reviewers for team {teamName}",
+  "admin.dataSpillage.reviewerSettings.toggle": "{teamName} ekibi için içerik inceleyicilerini etkinleştirin veya devre dışı bırakın",
   "admin.dataSpillage.title": "Verilerin sızmasının işlenmesi",
   "admin.data_grid.empty": "Herhangi bir öge bulunamadı",
   "admin.data_grid.loading": "Yükleniyor",
