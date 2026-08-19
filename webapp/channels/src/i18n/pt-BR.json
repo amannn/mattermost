@@ -3216,7 +3216,7 @@
   "globalThreads.searchGuidance.title": "Este é o fim da lista",
   "globalThreads.sidebarLink": "Tópicos",
   "globalThreads.threadList.noUnreadThreads": "Nenhum tópico não lida",
-  "globalThreads.threadPane.unreadMessageLink": "Você {numUnread, plural, =0 {não tem nenhum tópico não lido} =1 {tem <link>{numUnread} tópico</link>} other {tem <link>{numUnread} tópicos</link>}} {numUnread, plural, =1 {com mensagens não lidas} =0 {} other {com mensagens não lidas}}",
+  "globalThreads.threadPane.unreadMessageLink": "Você {numUnread, plural, =0 {não tem nenhum tópico não lido} =1 {tem <link>{numUnread} tópico</link>} other {tem <link>{numUnread} tópicos</link>}} {numUnread, plural, =0 {} other {com mensagens não lidas}}",
   "globalThreads.threadPane.unselectedTitle": "{numUnread, plural, =0 {Parece que você viu tudo} other {Discuta seus tópicos}}",
   "globalThreads.title": "{prefix}Tópicos - {displayName} {siteName}",
   "global_header.productSettings": "Configurações",

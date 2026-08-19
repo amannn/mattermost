@@ -3012,7 +3012,7 @@
   "globalThreads.searchGuidance.title": "Dit is het einde van de lijst",
   "globalThreads.sidebarLink": "Draadjes",
   "globalThreads.threadList.noUnreadThreads": "Geen ongelezen draadjes",
-  "globalThreads.threadPane.unreadMessageLink": "Je hebt {numUnread, plural, =0 {ongelezen draadjes} =1 {<link>{numUnread} draadje</link>} other {<link>{numUnread} draadjes</link>}} {numUnread, plural, =1 {met ongelezen berichten} =0 {} other {met ongelezen berichten}}",
+  "globalThreads.threadPane.unreadMessageLink": "Je hebt {numUnread, plural, =0 {ongelezen draadjes} =1 {<link>{numUnread} draadje</link>} other {<link>{numUnread} draadjes</link>}} {numUnread, plural, =0 {} other {met ongelezen berichten}}",
   "globalThreads.threadPane.unselectedTitle": "{numUnread, plural, =0 {Het lijkt dat je helemaal mee bent} other {Je in te halen draadjes}}",
   "globalThreads.title": "{prefix}Draadjes - {displayName} {siteName}",
   "global_header.productSettings": "Instellingen",

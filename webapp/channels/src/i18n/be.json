@@ -4480,7 +4480,7 @@
   "globalThreads.sidebarLink": "Гілкі",
   "globalThreads.threadList.noUnreadThreads": "Няма непрачытаных гілак",
   "globalThreads.threadList.noUnreadThreads.subtitle": "Вы ўсё праглядзелі",
-  "globalThreads.threadPane.unreadMessageLink": "У вас {numUnread, plural, =0 {няма непрачытаных гілак} =1 {<link>{numUnread} гілка</link>} other {<link>{numUnread} гілак</link>}} {numUnread, plural, =1 {з непрачытанымі паведамленнямі} =0 {} other {з непрачытанымі паведамленнямі}}",
+  "globalThreads.threadPane.unreadMessageLink": "У вас {numUnread, plural, =0 {няма непрачытаных гілак} =1 {<link>{numUnread} гілка</link>} other {<link>{numUnread} гілак</link>}} {numUnread, plural, =0 {} other {з непрачытанымі паведамленнямі}}",
   "globalThreads.threadPane.unselectedTitle": "{numUnread, plural, =0 {Здаецца, вы ўсё праглядзелі} other {Праглядзіце свае гілкі}}",
   "globalThreads.title": "{prefix}Гілкі - {displayName} {siteName}",
   "global_header.productSettings": "Налады",

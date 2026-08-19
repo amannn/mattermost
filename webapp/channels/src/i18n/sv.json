@@ -4444,7 +4444,7 @@
   "globalThreads.sidebarLink": "Trådar",
   "globalThreads.threadList.noUnreadThreads": "Inga olästa trådar",
   "globalThreads.threadList.noUnreadThreads.subtitle": "Du är nu helt uppdaterad",
-  "globalThreads.threadPane.unreadMessageLink": "Du har {numUnread, plural, =0 {inga olästa trådar} =1 {<link>{numUnread} tråd</link>} other {<link>{numUnread} trådar</link>}} {numUnread, plural, =1 {med olästa meddelanden} =0 {} other {med olästa meddelanden}}",
+  "globalThreads.threadPane.unreadMessageLink": "Du har {numUnread, plural, =0 {inga olästa trådar} =1 {<link>{numUnread} tråd</link>} other {<link>{numUnread} trådar</link>}} {numUnread, plural, =0 {} other {med olästa meddelanden}}",
   "globalThreads.threadPane.unselectedTitle": "{numUnread, plural, =0 {Ser ut som du hunnit ikapp} other {Kom ikapp med dina trådar}}",
   "globalThreads.title": "{prefix}Trådar - {displayName} {siteName}",
   "global_header.productSettings": "Inställningar",

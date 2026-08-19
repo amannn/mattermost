@@ -3160,7 +3160,7 @@
   "globalThreads.searchGuidance.title": "Tai sąrašo pabaiga",
   "globalThreads.sidebarLink": "Gijos",
   "globalThreads.threadList.noUnreadThreads": "Nėra neperskaitytų gijų",
-  "globalThreads.threadPane.unreadMessageLink": "Jūs turite {numUnread, plural, =0 {nėra neskaitytų gijų} =1 {<link> {numUnread} gija</link> } other {<link> {numUnread} gijos</link> }} {numUnread, plural, =1 {su neskaitytais pranešimais} =0 {} other {su neskaitytais pranešimais}}",
+  "globalThreads.threadPane.unreadMessageLink": "Jūs turite {numUnread, plural, =0 {nėra neskaitytų gijų} =1 {<link> {numUnread} gija</link> } other {<link> {numUnread} gijos</link> }} {numUnread, plural, =0 {} other {su neskaitytais pranešimais}}",
   "globalThreads.threadPane.unselectedTitle": "{numUnread, plural, =0 {Atrodo, viskas padaryta} other {Peržiūrėkite kitas savo gijas}}",
   "globalThreads.title": "{prefix}Gijos – {displayName} {siteName}",
   "global_header.productSettings": "Nustatymai",

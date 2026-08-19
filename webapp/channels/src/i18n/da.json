@@ -5003,7 +5003,7 @@
   "globalThreads.sidebarLink": "Tråde",
   "globalThreads.threadList.noUnreadThreads": "Ingen ulæste tråde",
   "globalThreads.threadList.noUnreadThreads.subtitle": "Du er helt opdateret",
-  "globalThreads.threadPane.unreadMessageLink": "Du har {numUnread, plural, =0 {ingen ulæste tråde} =1 {<link>{numUnread} tråd</link>} other {<link>{numUnread} tråde</link>}} {numUnread, plural, =1 {med ulæste beskeder} =0 {} other {med ulæste beskeder}}",
+  "globalThreads.threadPane.unreadMessageLink": "Du har {numUnread, plural, =0 {ingen ulæste tråde} =1 {<link>{numUnread} tråd</link>} other {<link>{numUnread} tråde</link>}} {numUnread, plural, =0 {} other {med ulæste beskeder}}",
   "globalThreads.threadPane.unselectedTitle": "{numUnread, plural, =0 {Det ser ud til, at du er helt opdateret} other {Kom ajour med dine tråde}}",
   "globalThreads.title": "{prefix}Tråde - {displayName} {siteName}",
   "global_header.productSettings": "Indstillinger",

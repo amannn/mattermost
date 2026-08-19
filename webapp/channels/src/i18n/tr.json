@@ -4601,7 +4601,7 @@
   "globalThreads.sidebarLink": "Konular",
   "globalThreads.threadList.noUnreadThreads": "Okunmamış bir konu yok",
   "globalThreads.threadList.noUnreadThreads.subtitle": "Tümünü gördünüz",
-  "globalThreads.threadPane.unreadMessageLink": "{numUnread, plural, =0 {no unread threads} =1 {<link>{numUnread} konuda</link>} other {<link>{numUnread} konuda</link>}} {numUnread, plural, =1 {okunmamış iletiniz var} =0 {} other {okunmamış iletiniz var}}",
+  "globalThreads.threadPane.unreadMessageLink": "{numUnread, plural, =0 {no unread threads} =1 {<link>{numUnread} konuda</link>} other {<link>{numUnread} konuda</link>}} {numUnread, plural, =0 {} other {okunmamış iletiniz var}}",
   "globalThreads.threadPane.unselectedTitle": "{numUnread, plural, =0 {Tüm konuları okumuşsunuz} other {Konularınıza bakın}}",
   "globalThreads.title": "{prefix}Konu - {displayName} {siteName}",
   "global_header.productSettings": "Ayarlar",

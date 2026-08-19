@@ -3660,7 +3660,7 @@
   "globalThreads.sidebarLink": "Tråder",
   "globalThreads.threadList.noUnreadThreads": "Ingen uleste tråder",
   "globalThreads.threadList.noUnreadThreads.subtitle": "Du er ajour",
-  "globalThreads.threadPane.unreadMessageLink": "Du har {numUnread, plural, =0 {ingen uleste tråder} =1 {<link>{numUnread} tråd</link>} other {<link>{numUnread} tråder</link>}} {numUnread, plural, =1 {med uleste meldinger} =0 {} other {med uleste meldinger}}",
+  "globalThreads.threadPane.unreadMessageLink": "Du har {numUnread, plural, =0 {ingen uleste tråder} =1 {<link>{numUnread} tråd</link>} other {<link>{numUnread} tråder</link>}} {numUnread, plural, =0 {} other {med uleste meldinger}}",
   "globalThreads.threadPane.unselectedTitle": "{numUnread, plural, =0 {Ser ut til at du er ajour} other {Hold deg oppdatert på trådene dine}}",
   "globalThreads.title": "{prefix}Tråder - {displayName} {siteName}",
   "global_header.productSettings": "Valg",

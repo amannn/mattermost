@@ -4239,7 +4239,7 @@
   "globalThreads.sidebarLink": "Vlákna",
   "globalThreads.threadList.noUnreadThreads": "Žádná nepřečtená vlákna",
   "globalThreads.threadList.noUnreadThreads.subtitle": "Všechno máte hotovo",
-  "globalThreads.threadPane.unreadMessageLink": "Máte {numUnread, plural, =0 {žádná nepřečtená vlákna} =1 {<link>{numUnread} vlákno</link>} other {<link>{numUnread} vlákna</link>}} {numUnread, plural, =1 {s nepřečtenými zprávami} =0 {} other {s nepřečtenými zprávami}}",
+  "globalThreads.threadPane.unreadMessageLink": "Máte {numUnread, plural, =0 {žádná nepřečtená vlákna} =1 {<link>{numUnread} vlákno</link>} other {<link>{numUnread} vlákna</link>}} {numUnread, plural, =0 {} other {s nepřečtenými zprávami}}",
   "globalThreads.threadPane.unselectedTitle": "{numUnread, plural, =0 {Vypadá to, že máte všechno přečtené} other {Zkontrolujte svá vlákna}}",
   "globalThreads.title": "{prefix}Vlákna – {displayName} {siteName}",
   "global_header.productSettings": "Nastavení",

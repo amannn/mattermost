@@ -4096,7 +4096,7 @@
   "globalThreads.sidebarLink": "Обговорення",
   "globalThreads.threadList.noUnreadThreads": "Немає непрочитаних обговорень",
   "globalThreads.threadList.noUnreadThreads.subtitle": "Ви все переглянули",
-  "globalThreads.threadPane.unreadMessageLink": "У вас {numUnread, plural, =0 {немає обговорень} =1 {<link>{numUnread} обговорення</link>} other {<link>{numUnread} обговорень</link>}} {numUnread, plural, =1 {з непрочитаними повідомленнями} =0 {} other {з непрочитаними повідомленнями}}",
+  "globalThreads.threadPane.unreadMessageLink": "У вас {numUnread, plural, =0 {немає обговорень} =1 {<link>{numUnread} обговорення</link>} other {<link>{numUnread} обговорень</link>}} {numUnread, plural, =0 {} other {з непрочитаними повідомленнями}}",
   "globalThreads.threadPane.unselectedTitle": "{numUnread, plural, =0 {Здається, ви все переглянули} other {Перегляньте свої обговорення}}",
   "globalThreads.title": "{prefix}Обговорення - {displayName} {siteName}",
   "global_header.productSettings": "Налаштування",

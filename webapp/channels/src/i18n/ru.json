@@ -4239,7 +4239,7 @@
   "globalThreads.searchGuidance.title": "Это конец списка",
   "globalThreads.sidebarLink": "Обсуждения",
   "globalThreads.threadList.noUnreadThreads": "Нет непрочитанных обсуждений",
-  "globalThreads.threadPane.unreadMessageLink": "У вас {numUnread, plural, =0 {нет непрочитанных обсуждений} =1 {<link>{numUnread} обсуждение</link>} few {<link>{numUnread} обсуждения</link>} other {<link>{numUnread} обсуждений</link>}} {numUnread, plural, =1 {с непрочитанными сообщениями} =0 {} other {с непрочитанными сообщениями}}",
+  "globalThreads.threadPane.unreadMessageLink": "У вас {numUnread, plural, =0 {нет непрочитанных обсуждений} =1 {<link>{numUnread} обсуждение</link>} few {<link>{numUnread} обсуждения</link>} other {<link>{numUnread} обсуждений</link>}} {numUnread, plural, =0 {} other {с непрочитанными сообщениями}}",
   "globalThreads.threadPane.unselectedTitle": "{numUnread, plural, =0 {Похоже, вы все обсудили} other {Обсудите свои темы}}",
   "globalThreads.title": "{prefix}Обсуждения – {displayName} {siteName}",
   "global_header.productSettings": "Настройки",

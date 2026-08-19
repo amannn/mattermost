@@ -5143,7 +5143,7 @@
   "globalThreads.sidebarLink": "Wątki",
   "globalThreads.threadList.noUnreadThreads": "Brak nieprzeczytanych wątków",
   "globalThreads.threadList.noUnreadThreads.subtitle": "Wszystko masz już za sobą",
-  "globalThreads.threadPane.unreadMessageLink": "Masz {numUnread, plural, =0 {brak nieprzeczytanych wiadomości} =1 {<link>{numUnread} wątek</link>} other {<link>{numUnread} wątki</link>}} {numUnread, plural, =1 {z wiadomościami nieprzeczytanymi} =0 {} other {z wiadomościami nieprzeczytanymi}}",
+  "globalThreads.threadPane.unreadMessageLink": "Masz {numUnread, plural, =0 {brak nieprzeczytanych wiadomości} =1 {<link>{numUnread} wątek</link>} other {<link>{numUnread} wątki</link>}} {numUnread, plural, =0 {} other {z wiadomościami nieprzeczytanymi}}",
   "globalThreads.threadPane.unselectedTitle": "{numUnread, plural, =0 {Wygląda na to, że wszyscy nadrobili zaległości} other {Załatw swoje wątki}}",
   "globalThreads.title": "{prefix}Wątki - {displayName} {siteName}",
   "global_header.productSettings": "Ustawienia",

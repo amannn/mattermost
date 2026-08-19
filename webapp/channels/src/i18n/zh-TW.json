@@ -3779,7 +3779,7 @@
   "globalThreads.searchGuidance.title": "此為清單最末端",
   "globalThreads.sidebarLink": "討論串",
   "globalThreads.threadList.noUnreadThreads": "沒有未讀的討論串",
-  "globalThreads.threadPane.unreadMessageLink": "您{numUnread, plural, =0 {沒有未讀的討論串} =1 {有 <link>{numUnread} 則未讀討論串</link>} other {<link>有 {numUnread} 則未讀討論串</link>}} {numUnread, plural, =1 {有未讀討論串} =0 {} other {有未讀討論串}}",
+  "globalThreads.threadPane.unreadMessageLink": "您{numUnread, plural, =0 {沒有未讀的討論串} =1 {有 <link>{numUnread} 則未讀討論串</link>} other {<link>有 {numUnread} 則未讀討論串</link>}} {numUnread, plural, =0 {} other {有未讀討論串}}",
   "globalThreads.threadPane.unselectedTitle": "{numUnread, plural, =0 {討論串都讀完了！} other {閱讀討論串}}",
   "globalThreads.title": "{prefix}討論串 - {displayName} {siteName}",
   "global_header.productSettings": "設定",

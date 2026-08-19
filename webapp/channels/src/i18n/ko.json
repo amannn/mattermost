@@ -4280,7 +4280,7 @@
   "globalThreads.sidebarLink": "글타래",
   "globalThreads.threadList.noUnreadThreads": "읽지 않은 글타래 없음",
   "globalThreads.threadList.noUnreadThreads.subtitle": "모두 따라잡았습니다.",
-  "globalThreads.threadPane.unreadMessageLink": "당신은 {numUnread, plural, =1 {읽지 않은 메시지 있는} =0 {읽지 않은 글타래가 없습니다} other {읽지 않은 메시지 있는}} {numUnread, plural, =0 {} =1 {<link>글타래가 {numUnread}개 있습니다</link>} other {<link>글타래가 {numUnread}개 있습니다</link>}}",
+  "globalThreads.threadPane.unreadMessageLink": "당신은 {numUnread, plural, =1 {읽지 않은 메시지 있는} =0 {읽지 않은 글타래가 없습니다} other {읽지 않은 메시지 있는}} {numUnread, plural, =0 {} other {<link>글타래가 {numUnread}개 있습니다</link>}}",
   "globalThreads.threadPane.unselectedTitle": "{numUnread, plural, =0 {더이상 확인할 글타래가 없습니다} other {읽지 않은 글타래를 확인해 보세요}}",
   "globalThreads.title": "{prefix}스레드 {displayName} {siteName}",
   "global_header.productSettings": "설정",
