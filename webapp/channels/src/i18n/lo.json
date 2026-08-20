@@ -85,7 +85,7 @@
   "admin.banner.heading": "ໝາຍເຫດ:",
   "admin.channel_settings.channel_list.nameHeader": "ຊື່",
   "admin.cluster.GossipPortEx": "ຕົວຢ່າງ: \":8075\"",
-  "admin.cluster.enableDescription": "ເມື່ອເປັນ true, Mattermost ຈະເຮັດວຽກໃນໂໝດ High Availability. ກະລຸນາເບິ່ງ<link>ເອກະສານ</link>ເພື່ອຮຽນຮູ້ເພີ່ມເຕີມກ່ຽວກັບການຕັ້ງຄ່າ High Availability ສຳລັບ Mattermost.",
+  "admin.cluster.enableDescription": "ເມື່ອຕັ້ງເປັນ true, Mattermost ຈະເຮັດວຽກໃນໂໝດຄວາມພ້ອມໃຊ້ງານສູງ. ກະລຸນາເບິ່ງ<link>ເອກະສານ</link> ເພື່ອຮຽນຮູ້ເພີ່ມເຕີມກ່ຽວກັບການຕັ້ງຄ່າຄວາມພ້ອມໃຊ້ງານສູງສຳລັບ Mattermost.",
   "admin.cluster.enableTitle": "ເປີດໃຊ້ໂໝດຄວາມພ້ອມໃຊ້ງານສູງ:",
   "admin.cluster.loadedFrom": "ໄຟລ໌ການຕັ້ງຄ່ານີ້ຖືກໂຫຼດມາຈາກ Node ID {clusterId}. ຖ້າທ່ານເຂົ້າໃຊ້ System Console ຜ່ານ load balancer ແລ້ວພົບບັນຫາ ກະລຸນາເບິ່ງຄູ່ມືການແກ້ໄຂບັນຫາໃນ<link>ເອກະສານ</link>ຂອງພວກເຮົາ.",
   "admin.cluster.should_not_change": "ຄຳເຕືອນ: ການຕັ້ງຄ່າເຫຼົ່ານີ້ອາດຈະບໍ່ຊິງຄ໌ກັບເຊີບເວີອື່ນໆໃນຄລັດສເຕີ. ການສື່ສານລະຫວ່າງໂນດຂອງ High Availability ຈະບໍ່ເລີ່ມຕົ້ນ ຈົນກວ່າທ່ານຈະແກ້ໄຂ config.json ໃຫ້ຄືກັນໃນທຸກເຊີບເວີ ແລ້ວປິດເປີດ Mattermost ຄືນໃໝ່. ກະລຸນາເບິ່ງ<link>ເອກະສານ</link>ກ່ຽວກັບວິທີເພີ່ມ ຫຼື ລຶບເຊີບເວີອອກຈາກຄລັດສເຕີ. ຖ້າທ່ານເຂົ້າໃຊ້ System Console ຜ່ານ load balancer ແລ້ວພົບບັນຫາ ກະລຸນາເບິ່ງຄູ່ມືການແກ້ໄຂບັນຫາໃນ<link>ເອກະສານ</link>ຂອງພວກເຮົາ.",
